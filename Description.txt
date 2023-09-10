@@ -1,0 +1,1 @@
+This project is based on Machine Learning techniques.Here images are pre trained to get correct output
